@@ -4,7 +4,7 @@ A text-formatting page with Bigger!, FancyShmancy, BoringBetty,
 and Moo controls.
 
 ## Open the assignment
-
+ 
 [View the working page](https://dfectv.github.io/csc193a-assignment5/fancifymytext.html)
 
 ## Files
